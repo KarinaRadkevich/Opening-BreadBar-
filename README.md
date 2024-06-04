@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hi there 👋, my name is Karina!</h1>
-<h2>I am web developer from Israel!</h2>
+<h2>I am web developer from Israel!</h2> 
 </div>
 <div align="center">
 <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="650px" alt="Bread">
@@ -8,7 +8,7 @@
 <br>
 This prolect is landing page for "Backery Bar"'s opening.
 <br>
-I made it to practice JavaScript for educational purposes. It includes a countdown timer.
+I made it to practice JavaScript for educational purposes. It includes slides, video and a countdown timer.
 <br>
 <br>
 Skills: REACT / JS / HTML / CSS
